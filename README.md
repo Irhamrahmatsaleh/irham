@@ -1,6 +1,6 @@
 # Irham Rahmat Saleh – Personal Portfolio
 
-![preview](https://irhamrahmatsaleh.github.io/irham/)
+(https://irhamrahmatsaleh.github.io/irham/)
 
 ## 🚀 About
 
